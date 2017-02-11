@@ -21,30 +21,30 @@ npm test
 
 ### Things i want to study
 
-*Documentation first
-*Code Review
-*DDD - Domain Driven Design
-*CC - Clean Code
-*ES6 (Kyle Simpson books, mainly)
-*WebComponents
-*OAuth2
-*JSDoc
-*Docma
-*Sonar
-*Mocha
-*Offline first
-*CI/CD
-*GraphQL
-*Relay
-*Webpack 2
+* Documentation first
+* Code Review
+* DDD - Domain Driven Design
+* CC - Clean Code
+* ES6 (Kyle Simpson books, mainly)
+* WebComponents
+* OAuth2
+* JSDoc
+* Docma
+* Sonar
+* Mocha
+* Offline first
+* CI/CD
+* GraphQL
+* Relay
+* Webpack 2
 
 ### Things i will implement from day one:
 
-*GitFlow
-*ESLint
-*React
-*Storybook
-*MongoDB
-*JWT
-*React DND
-*Pre-Commit
+* GitFlow
+* ESLint
+* React
+* Storybook
+* MongoDB
+* JWT
+* React DND
+* Pre-Commit
