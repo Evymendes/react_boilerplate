@@ -1,11 +1,14 @@
 // Libs
 import React, { PureComponent } from 'react';
 
+// Styles
+import styles from './wololo.css'; // eslint-disable-line no-unused-vars
+
 class Wololo extends PureComponent {
   render() {
     return (
       <section>
-        Wololo
+        <p className='wololo'>Wololo</p>
       </section>
     );
   }
