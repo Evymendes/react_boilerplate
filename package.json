@@ -1,0 +1,38 @@
+{
+  "name": "react.boilerplate.storybook",
+  "version": "1.0.0",
+  "description": "A simple react boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook -p 8081 -c config",
+    "build": "build-storybook -c config -o build",
+    "deploy-storybook": "storybook-to-ghpages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurcouto/react_boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurcouto/react_boilerplate/issues"
+  },
+  "homepage": "https://github.com/arthurcouto/react_boilerplate#readme",
+  "devDependencies": {
+    "@kadira/storybook-addon-knobs": "^1.7.1",
+    "@kadira/storybook-addon-notes": "^1.0.1",
+    "@kadira/react-storybook-addon-info": "^3.3.0",
+    "@kadira/storybook": "^2.35.3",
+    "react": "^15.4.2",
+    "react-css-modules": "^4.1.0",
+    "react-dom": "^15.4.2",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.4.0",
+    "url-loader": "^0.5.7"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
