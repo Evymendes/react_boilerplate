@@ -40,5 +40,9 @@
     "webpack-dashboard": "^0.3.0",
     "webpack-dev-server": "^2.3.0",
     "webpack-merge": "^2.6.1"
+  },
+  "dependencies": {
+    "react-redux": "^5.1.0",
+    "redux": "^4.0.1"
   }
 }
